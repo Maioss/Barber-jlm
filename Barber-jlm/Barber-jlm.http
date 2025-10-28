@@ -1,0 +1,6 @@
+@Barber_jlm_HostAddress = http://localhost:5021
+
+GET {{Barber_jlm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
